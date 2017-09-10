@@ -1,2 +1,3 @@
-*result.txt
+**/result*.txt
+**/test.txt
 rosalind_*.txt
