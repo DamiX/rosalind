@@ -14,11 +14,11 @@ An example of a length 21 **DNA string** (whose alphabet contains the symbols 'A
 ## Example
 Input : AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC
 
-Ouput : 20 12 17 21
+Output : 20 12 17 21
 
 ## Usage
 ```
-$ python main.py rosalind_dna.txt -o
+$ python main.py input_file.txt [-o]
 ```
 
 ## License

@@ -1,5 +1,12 @@
 {
+    // FILES
     "files.eol": "\n",
+    "files.exclude": {
+        "**/*.pyc": true
+      },
+
+    // EDITOR
     "editor.tabSize": 8,
-    "editor.renderWhitespace": "boundary"
+    "editor.renderWhitespace": "boundary",
+    "python.linting.pylintEnabled": false
 }
